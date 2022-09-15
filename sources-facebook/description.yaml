@@ -1,0 +1,11 @@
+availableFor: Open-source, Enterprise, Managed cloud
+category: Conversation Source
+configurationValues: '{ "appId": "string", "appSecret": "string", "webhookSecret": "string"}'
+description: 'Enable Facebook Messenger to help you to simplify customer acquisition by providing a direct, conversational way for people to take action on one of the most used platform. You can ingest messaging data into your airy core to understand more about your business and customer as well as the ability to connect this channel on Airy Inbox to receive and reply to messages. '
+displayName: Facebook Messenger
+docs: https://airy.co/docs/core/sources/facebook
+isChannel: "true"
+name: sources-facebook
+price: Free
+source: facebook
+repository: airy-core

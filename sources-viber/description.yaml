@@ -1,0 +1,11 @@
+availableFor: Open-source, Enterprise, Managed cloud
+category: Conversation Source
+configurationValues: '{ "authToken": "string"}'
+description: This component when added to your Airy core, allows you to configure a business account that you can use to send and receive messages to and from users.
+displayName: Viber
+docs: https://airy.co/docs/core/sources/viber
+isChannel: "true"
+name: sources-viber
+price: Free
+source: viber
+repository: airy-core

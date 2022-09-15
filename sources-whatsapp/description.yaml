@@ -1,0 +1,11 @@
+availableFor: Open source, Enterprise, Managed cloud
+category: Conversation Source
+configurationValues: '{ "appId": "string", "appSecret": "string", "phoneNumber": "string", "name": "string", "avatarUrl": "string"}'
+description: Send and receive messages using a cloud-hosted version of the WhatsApp Business Platform. The Cloud API allows you to implement WhatsApp Business APIs without the cost of hosting of your own servers and also allows you to more easily scale your business messaging. The Cloud API supports up to 80 messages per second of combined sending and receiving (inclusive of text and media messages).
+displayName: WhatsApp Business Cloud
+docs: https://airy.co/docs/core/sources/whatsapp-cloud
+isChannel: "true"
+name: sources-whatsapp
+price: Free
+source: whatsapp
+repository: airy-core

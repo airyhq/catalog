@@ -1,0 +1,11 @@
+availableFor: Open-source, Enterprise, Managed cloud
+category: Conversation Source
+configurationValues: '{ "saFile": "string", "partnerKey": "string"}'
+description: "Business Messages is a mobile conversation channel that allows Android users to contact businesses through various Google products, including Google Search and Google Maps. Thanks to this platform's comprehensive functions and easy access, companies can deliver fast, efficient and personalized customer experiences .\nSimilar to other messaging channels , Business Messages from Google offers advanced features such as high-quality videos and images, carousels, suggested reply and location sharing. Customers can ask questions, request support, shop, and more. "
+displayName: Google Business Messages
+docs: https://airy.co/docs/core/sources/google
+isChannel: "true"
+name: sources-google
+price: Free
+source: google
+respository: airy-core

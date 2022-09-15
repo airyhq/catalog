@@ -1,0 +1,10 @@
+availableFor: Managed Cloud, Enterprise
+category: Marketing, Storage
+configurationValues: '{ "url": "string", "username": "string", "password": "string", "securityToken": "string"}'
+description: After configuring salesforce-contacts-ingestion see deployment it will gather all the contacts in salesforce and add them to the contacts stream, while keeping an eye for every change. And update the stream accordingly.
+displayName: Salesforce
+docs: https://airy.co/docs/enterprise/apps/salesforce-contacts-ingestion/deployment
+name: enterprise-salesforce-contacts-ingestion
+price: Paid
+source: salesforce
+repository: airy-enterprise

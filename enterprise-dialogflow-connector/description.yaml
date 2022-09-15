@@ -1,0 +1,12 @@
+availableFor: 'Open source, Enterprise, Managed cloud '
+category: Machine learning, Conversational AI
+configurationValues: |-
+  { "projectId": "string", "dialogflowCredentials": "string", "suggestionConfidenceLevel": "string", "replyConfidenceLevel": "string", "connectorStoreMessagesProcessorMaxWaitMillis": "string", "connectorStoreMessagesProcessorCheckPeriodMillis": "string",
+    "connectorDefaultLanguage": "string"}
+description: After installing dialogflow you will be able to configure it. Dialogflow will read all the incoming messages in airy and will give either a direct reply or a suggestion depending on the configured threshold confidence level respectively.
+displayName: Dialogflow
+docs: https://dialogflow.cloud.google.com/cx/projects
+name: enterprise-dialogflow-connector
+price: Free
+source: dialogflow
+repository: airy-enterprise

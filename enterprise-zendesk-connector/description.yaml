@@ -1,0 +1,12 @@
+availableFor: Enterprise, Managed cloud
+category: Customer Service
+configurationValues: '{ "domain": "string", "token": "string", "username": "string"}'
+description: |-
+  While Airy ships with its own messaging inbox you might prefer to continue using Zendesk and its mature eco-system of integrations and workflows. When installing Zendesk here, by this way your Airy does all the heavy lifting of connecting messaging channels while Zendesk provides you with a CRM experience that you are familiar with.
+  After installing and configuraiton your Airy installation will automatically forward all messages to your Zendesk inbox, where you can reply to them like you are used to.
+displayName: Zendesk
+docs: https://airy.co/docs/enterprise/apps/zendesk/installation
+name: enterprise-zendesk-connector
+price: Paid
+source: zendesk
+repository: airy-enterprise

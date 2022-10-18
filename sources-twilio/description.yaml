@@ -1,7 +1,17 @@
 availableFor: Open-source, Enterprise, Managed cloud
 category: Conversation Source
 configurationValues: '{ "authToken": "string", "accountSid": "string"}'
-description: 'Build or buy your ideal customer engagement experience on a single, trusted platform that combines the best in digital channels, first-party data, and flexible, easy-to-build solutions. When added to your Airy core, the component  allows Messaging: Send and receive SMS, WhatsApp, and chat messages reliably with best-in-class communications APIs'
+description: {[<h2>ABOUT</h2>, <br />, 
+  <p>Build or buy your ideal customer engagement experience on a single, trusted platform that combines the best in digital channels, first-party data, and flexible, easy-to-build solutions. The Component when added to your Airy core, allows messaging: send and receive SMS, WhatsApp, and chat messages reliably with best-in-class communications APIs.</p >,<br />, 
+<h2>TO INSTALL</h2>, <br/>,
+<p>All you have to do is click “Install” button and Twilio SMS will be installed in one click. After a successful installation, you will be able to configure your Twilio SMS source to add your channels.</p>,<br />,
+<h2>TO CONFIGURE</h2>, <br/>,
+<p>The Twilio SMS source will require the following configuration:</p>, <br />,
+ <ul><li>Step 1: phone_number is the phone number as listed in your Twilio dashboard. <br />It must not contain spaces and must include the country code.</li>
+<li>Step 2: name is the custom name for the connected phone number</li>
+<li>Step 3: image_url is the custom image URL</li>
+</ul>
+]}
 displayName: Twilio SMS
 docs: https://airy.co/docs/core/sources/sms-twilio
 isChannel: "true"

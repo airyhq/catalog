@@ -1,18 +1,7 @@
 availableFor: Open-source, Enterprise, Managed cloud
 category: Conversation Source
 configurationValues: '{ "saFile": "string", "partnerKey": "string"}'
-description: {[<h2>ABOUT</h2>, <br />, 
-  <p>Google Business Messages is a mobile conversation channel that allows Android users to contact businesses through various Google products, including Google Search and Google Maps. Thanks to this platform's comprehensive functions and easy access, companies can deliver fast, efficient and personalized customer experiences.</p >,<br />, 
-  <p>Similar to other messaging channels, Business Messages from Google offers advanced features such as high-quality videos and images, carousels, suggested reply and location sharing. Customers can ask questions, request support, shop, and more. And all this directly on the platform.</p>, <br />,
-<h2>TO INSTALL</h2>, <br/>,
-<p>All you have to do is click “Install” button and Google Business Messages will be installed in one click. After a successful installation, you will be able to configure your Google Business Messages source to add your channels.</p>,<br />,
-<h2>TO CONFIGURE</h2>, <br/>,
-<p>The Google Business Messages source will require the following configuration:</p>, <br />,
- <ul><li>Step 1:gbm_id is the ID of your Google Business Message agent</li>
-<li>Step 2:name is the custom name for the connected business</li>
-<li>Step 3:image_url is the custom image URL</li>
-</ul>
-]}
+description: --- "{[<h2>ABOUT</h2>, <br />, <p>Google Business Messages is a mobile conversation channel that allows Android users to contact businesses through various Google products, including Google Search and Google Maps. Thanks to this platform's comprehensive functions and easy access, companies can deliver fast, efficient and personalized customer experiences.</p >,<br />, <p>Similar to other messaging channels, Business Messages from Google offers advanced features such as high-quality videos and images, carousels, suggested reply and location sharing. Customers can ask questions, request support, shop, and more. And all this directly on the platform.</p>, <br />, <h2>TO INSTALL</h2>, <br/>, <p>All you have to do is click “Install” button and Google Business Messages will be installed in one click. After a successful installation, you will be able to configure your Google Business Messages source to add your channels.</p>,<br />, <h2>TO CONFIGURE</h2>, <br/>, <p>The Google Business Messages source will require the following configuration:</p>, <br />, <ul><li>Step 1:gbm_id is the ID of your Google Business Message agent</li> <li>Step 2:name is the custom name for the connected business</li> <li>Step 3:image_url is the custom image URL</li> </ul> ]}"
 displayName: Google Business Messages
 docs: https://airy.co/docs/core/sources/google
 isChannel: "true"

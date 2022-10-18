@@ -1,6 +1,22 @@
 availableFor: Open-source, Enterprise, Managed cloud
 category: Conversation Source
-description: "Having a Live Chat plugin on your website has become essential. Connect with your website visitors, communicate with them in real time, or use a bot to automate FAQs.\nAiry’s Live Chat Plugin comes out of the box fully functioning, and thanks to its open-source nature and React Render Props, you can customize everything about it.\nOut of the box Airy’s Live Chat Plugin supports:\nFull customization of look, feel and features\nAll message types, including emojis\nRich Messaging with templates, cards and carousels\nRecording and receiving Audio files. \nSending and receiving shared media files. \n"
+description: "About\n\n
+Having a Live Chat plugin on your website has become essential. 
+Connect with your website visitors, communicate with them in real time, 
+or use a bot to automate FAQs.
+\nAiry’s Live Chat Plugin comes out of the box fully functioning, and thanks to its open-source nature 
+and React Render Props, you can customize everything about it.
+\nOut of the box Airy’s Live Chat Plugin supports:
+\n\nFull customization of look, feel and features
+\n\u2022All message types, including emojis
+\n\u2022Rich Messaging with templates, cards and carousels
+\n\u2022Recording and receiving Audio files. 
+\n\u2022Sending and receiving shared media files.\n
+TO INSTALL\n\n
+All you have to do is click “Install” button and Airy Chat Plugin will be installed 
+and configured for your use in one click. After a successful installation, you will be able 
+to start creating and customizing channels right away
+"
 displayName: Airy Chat Plugin
 docs: https://airy.co/docs/core/sources/chatplugin/overview
 isChannel: "true"

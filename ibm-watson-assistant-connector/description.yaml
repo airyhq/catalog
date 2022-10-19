@@ -1,7 +1,7 @@
 availableFor: 'Open source, Enterprise, Managed cloud '
 category: Customer Service, Machine learning, Conversational AI
 configurationValues: '{ "placeholder"}'
-description: "IBM Watson Assistant uses artificial intelligence that understands customers in context to provide fast, consistent, and accurate answers across any application, device, or channel. Remove the frustration of long wait times, tedious searches, and unhelpful chatbots with the leader in trustworthy AI.\n\nWith Watson Assistant Solutions, you can create AI assistants that converse with multiple skills. As a skill developer, you can use several features that enhance the conversation flow with a single skill and the conversation flow between multiple skills. "
+description: "<div><p> IBM Watson Assistant uses artificial intelligence that understands customers in context to provide fast, consistent, and accurate answers across any application, device, or channel. Remove the frustration of long wait times, tedious searches, and unhelpful chatbots with the leader in trustworthy AI.\n\nWith Watson Assistant Solutions, you can create AI assistants that converse with multiple skills. As a skill developer, you can use several features that enhance the conversation flow with a single skill and the conversation flow between multiple skills. </p> </div>"
 displayName: IBM Watson Assistant
 docs: https://www.ibm.com/uk-en/products/watson-assistant?utm_content=SRCWW&p1=Search&p4=43700067979443095&p5=e&gclid=Cj0KCQjwjbyYBhCdARIsAArC6LLq6XhIlkXXDTlhVVgBhLiCD7sn47HSmbZVLmrwdL-FhTLnMXo6wPkaAmRhEALw_wcB&gclsrc=aw.ds
 name: ibm-watson-assistant-connector

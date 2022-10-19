@@ -1,9 +1,7 @@
 availableFor: Open source, Enterprise, Managed cloud
 category: Customer Service, Machine learning, Conversational AI
 configurationValues: '{ "webhookUrl": "string", "apiHost": "string", "token": "string"}'
-description: |-
-  Out of the box Rasa offers you a standard set of messaging channels to connect to. However, you can only connect to one Facebook page at a time. This is perfectly fine for simple use cases, but as your platform grows and you want to scale your bot interactions across many channels you will need a dedicated solution for storing and routing messages.
-  This is where Airy Core can provide great scale benefits: You can connect a wide array of messaging channels and service them in a single inbox. For Rasa, you can think of it as a forward messaging router that will persist your data and make it available for export to anywhere within your organization.
+description: "<div><p> Out of the box Rasa offers you a standard set of messaging channels to connect to. However, you can only connect to one Facebook page at a time. This is perfectly fine for simple use cases, but as your platform grows and you want to scale your bot interactions across many channels you will need a dedicated solution for storing and routing messages.This is where Airy Core can provide great scale benefits: You can connect a wide array of messaging channels and service them in a single inbox. For Rasa, you can think of it as a forward messaging router that will persist your data and make it available for export to anywhere within your organization. </p></div>"
 displayName: Rasa
 docs: https://airy.co/docs/core/integrations/rasa-assistant
 name: rasa-connector

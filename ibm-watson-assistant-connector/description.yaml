@@ -5,6 +5,6 @@ description: "<div><p> IBM Watson Assistant uses artificial intelligence that un
 displayName: IBM Watson Assistant
 docs: https://airy.co/docs/core/integrations/ibm-watson-assistant
 name: ibm-watson-assistant-connector
-price: Free
+price: REQUEST ACCESS
 source: ibmWatsonAssistant
 repository: airy-core

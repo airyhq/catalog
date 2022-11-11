@@ -5,5 +5,5 @@ displayName: Airy Webhooks
 docs: https://airy.co/docs/core/api/webhook
 name: integration-webhook
 price: Free
-source: airyWebhooks
+source: webhooks
 repository: airy-core

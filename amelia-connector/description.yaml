@@ -1,6 +1,9 @@
 availableFor: Open source, Enterprise, Managed cloud
 category: Customer Service, Machine learning, Conversational AI
 description: "<div><p>Amelia, the intelligent cognitive conversational chatbot (AI) as part of your service desk with a seamless integration with TOPdesk ITSM software.</p></div>"
+descriptionDE: "<div><p>Amelia, der intelligente kognitive Konversations-Chatbot (KI) als Teil Ihres Service Desks mit nahtloser Integration in die TOPdesk ITSM-Software.</p></div>"
+descriptionFR: "<div><p>Amelia, le chatbot conversationnel cognitif (IA) intelligent faisant partie de votre centre de services avec une intégration transparente avec le logiciel TOPdesk ITSM.</p></div>"
+descriptionES: "<div><p>Amelia, el chatbot conversacional (AI) cognitivo inteligente como parte de su mesa de servicio con una integración perfecta con el software TOPdesk ITSM.</p></div>"
 displayName: Amelia
 docs: https://amelia.ai
 name: amelia-connector

@@ -1,6 +1,9 @@
 availableFor: Open-source, Enterprise, Managed cloud
 category: Subscription
-description: "<div><p>When you install this component, it will allow you perform manually the subscription to your airy core.</p> </div>"
+description: "<div><p>When you install this component, it will allow you perform manually the subscription to your airy core.</p></div>"
+descriptionDE: "<div><p>Wenn Sie diese Komponente installieren, können Sie das Abonnement für Ihren Airy Core manuell durchführen.</p></div>"
+descriptionFR: "<div><p>Lorsque vous installez ce composant, il vous permettra d'effectuer manuellement l'abonnement à votre noyau aéré.</p></div>"
+descriptionES: "<div><p>Cuando instale este componente, le permitirá realizar manualmente la suscripción a su airy core.</p></div>"
 displayName: Airy Webhooks
 docs: https://airy.co/docs/core/api/webhook
 name: integration-webhook

@@ -2,6 +2,9 @@ availableFor: Managed Cloud, Enterprise
 category: Marketing, Storage
 configurationValues: '{ "url": "string", "username": "string", "password": "string", "securityToken": "string"}'
 description: "<div><p>After configuring salesforce-contacts-ingestion it will gather all the contacts in salesforce and add them to the contacts stream, while keeping an eye for every change. And update the stream accordingly.</p></div>"
+descriptionDE: "<div><p>Nach der Konfiguration von Salesforce-Contacts-Ingestion werden alle Kontakte in Salesforce gesammelt und zum Kontakt-Stream hinzugefügt, während jede Änderung im Auge behalten wird. Und den Stream entsprechend aktualisieren.</p></div>"
+descriptionFR: "<div><p>Après avoir configuré salesforce-contacts-ingestion, il rassemblera tous les contacts dans salesforce et les ajoutera au flux de contacts, tout en gardant un œil sur chaque modification. Et mettra à jour le flux en conséquence.</p></div>"
+descriptionES: "<div><p>Después de configurar la ingestión de contactos de salesforce, recopilará todos los contactos en salesforce y los agregará al flujo de contactos, al mismo tiempo que vigilará cada cambio. Y actualizará el flujo en consecuencia.</p></div>"
 displayName: Salesforce
 docs: https://airy.co/docs/enterprise/apps/salesforce-contacts-ingestion/deployment
 name: enterprise-salesforce-contacts-ingestion

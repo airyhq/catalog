@@ -1,0 +1,12 @@
+availableFor: Open source, Enterprise, Managed cloud
+category: Databases
+description: "<div><p>Redis is an in-memory data structure store, used as a distributed, in-memory key–value database, cache and message broker, with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, HyperLogLogs, bitmaps, streams, and spatial indices.</p></div>"
+descriptionDE: "<div><p>Redis is an in-memory data structure store, used as a distributed, in-memory key–value database, cache and message broker, with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, HyperLogLogs, bitmaps, streams, and spatial indices.</p></div>"
+descriptionFR: "<div><p>Redis is an in-memory data structure store, used as a distributed, in-memory key–value database, cache and message broker, with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, HyperLogLogs, bitmaps, streams, and spatial indices.</p></div>"
+descriptionES: "<div><p>Redis is an in-memory data structure store, used as a distributed, in-memory key–value database, cache and message broker, with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, HyperLogLogs, bitmaps, streams, and spatial indices.</p></div>"
+displayName: Redis
+docs: https://airy.co/docs/core/apps/redis
+name: redis
+price: Free
+source: redis
+repository: airy-core

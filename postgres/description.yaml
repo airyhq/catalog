@@ -1,0 +1,12 @@
+availableFor: Open source, Enterprise, Managed cloud
+category: Databases
+description: "<div><p>PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.</p></div>"
+descriptionDE: "<div><p>PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.</p></div>"
+descriptionFR: "<div><p>PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.</p></div>"
+descriptionES: "<div><p>PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.</p></div>"
+displayName: PostgreSQL
+docs: https://airy.co/docs/core/apps/postgresql
+name: postgresql
+price: Free
+source: postresql
+repository: airy-core

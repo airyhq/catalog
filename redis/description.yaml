@@ -10,3 +10,4 @@ name: redis
 price: Free
 source: redis
 repository: airy-core
+isApp: true

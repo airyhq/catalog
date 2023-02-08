@@ -11,4 +11,4 @@ price: Free
 source: feast
 repository: feast-repo
 isApp: true
-interalUI: /feast
+internalUI: https://feast.staging.airy.co/

@@ -1,0 +1,12 @@
+availableFor: 'Open source, Enterprise, Managed cloud '
+category: Airy Product
+description: "<div><p> The source API allows you to leverage Airy's message ingestion and real time delivery for any messaging platform that is not yet officially supported.</p></div>"
+descriptionDE: "<div><p> Mit der Quell-API können Sie die Nachrichtenaufnahme und Echtzeit-Zustellung von Airy für jede Messaging-Plattform nutzen, die noch nicht offiziell unterstützt wird.</p></div>"
+descriptionFR: "<div><p> L'API source vous permet de tirer parti de l'ingestion de messages et de la diffusion en temps réel d'Airy pour toute plateforme de messagerie qui n'est pas encore officiellement prise en charge.</p></div>"
+descriptionES: "<div><p> La API de origen permite aprovechar la ingesta de mensajes y la entrega en tiempo real de Airy para cualquier plataforma de mensajería que aún no sea oficialmente compatible.</p></div>"
+displayName: Source API
+docs: https://airy.co/docs/core/api/source
+name: integration-source-api
+price: Free
+source: integration-source-api
+repository: airy-core

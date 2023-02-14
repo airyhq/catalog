@@ -8,5 +8,5 @@ displayName: Source API
 docs: https://airy.co/docs/core/api/source
 name: integration-source-api
 price: Free
-source: integration-source-api
+source: integrationSourceApi
 repository: airy-core

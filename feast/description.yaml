@@ -1,9 +1,9 @@
 availableFor: Open source, Enterprise, Managed cloud
 category: Feature Store
 description: "<div><p>Feast is a standalone, open-source feature store that organizations use to store and serve features consistently for offline training and online inference.</p></div>"
-descriptionDE: "<div><p>Feast is a standalone, open-source feature store that organizations use to store and serve features consistently for offline training and online inference.</p></div>"
-descriptionFR: "<div><p>Feast is a standalone, open-source feature store that organizations use to store and serve features consistently for offline training and online inference.</p></div>"
-descriptionES: "<div><p>Feast is a standalone, open-source feature store that organizations use to store and serve features consistently for offline training and online inference.</p></div>"
+descriptionDE: "<div><p>Feast ist ein eigenständiger, quelloffener Feature-Speicher, den Unternehmen zum Speichern und konsistenten Bereitstellen von Features für Offline-Training und Online-Inferenz verwenden.</p></div>"
+descriptionFR: "<div><p>Feast est un magasin de fonctionnalités autonome et open-source que les organisations utilisent pour stocker et servir des fonctionnalités de manière cohérente pour la formation hors ligne et l'inférence en ligne.</p></div>"
+descriptionES: "<div><p>Feast es un almacén de funciones independiente y de código abierto que las organizaciones utilizan para almacenar y servir funciones de forma coherente para la formación fuera de línea y la inferencia en línea.</p></div>"
 displayName: Feast
 docs: https://airy.co/docs/core/apps/feast
 name: feast

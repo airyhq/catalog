@@ -1,4 +1,4 @@
-availableFor: Open source, Enterprise, Managed cloud
+availableFor: Open Source, Enterprise, Managed Cloud
 category: Databases
 description: "<div><p>Redis is an in-memory data structure store, used as a distributed, in-memory key–value database, cache and message broker, with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, HyperLogLogs, bitmaps, streams, and spatial indices.</p></div>"
 descriptionDE: "<div><p>Redis ist ein In-Memory-Datenstrukturspeicher, der als verteilte In-Memory-Schlüsselwertdatenbank, Cache und Message Broker mit optionaler Dauerhaftigkeit verwendet wird. Redis unterstützt verschiedene Arten von abstrakten Datenstrukturen, wie Strings, Listen, Maps, Sets, sortierte Sets, HyperLogLogs, Bitmaps, Streams und räumliche Indizes.</p></div>"

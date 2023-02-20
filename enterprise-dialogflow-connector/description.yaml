@@ -1,5 +1,5 @@
-availableFor: 'Open source, Enterprise, Managed cloud '
-category: Machine learning, Conversational AI
+availableFor: 'Open Source, Enterprise, Managed Cloud'
+category: Machine Learning, Conversational AI
 configurationValues: |-
   { "projectId": "string", "dialogflowCredentials": "string", "suggestionConfidenceLevel": "string", "replyConfidenceLevel": "string", "connectorStoreMessagesProcessorMaxWaitMillis": "string", "connectorStoreMessagesProcessorCheckPeriodMillis": "string",
     "connectorDefaultLanguage": "string"}

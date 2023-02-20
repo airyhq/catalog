@@ -1,4 +1,4 @@
-availableFor: Open source, Enterprise, Managed cloud
+availableFor: Open Source, Enterprise, Managed Cloud
 category: Conversation Source
 configurationValues: '{ "appId": "string", "appSecret": "string", "webhookSecret": "string"}'
 description: "<div><h2>ABOUT</h2><br /><p>Send and receive messages using a cloud-hosted version of the WhatsApp Business Platform. The Cloud version allows you to implement WhatsApp Business APIs without the cost of hosting of your own servers and also allows you to more easily scale your business messaging.</p ><br /><h2>TO INSTALL</h2><br/><p>All you have to do is click “Install” button and Whatsapp Business Cloud will be installed in one click. After a successful installation, you will be able to configure your Whatsapp Business Cloud  source to add your channels.</p><br /><h2>TO CONFIGURE</h2><br/><p>The Whatsapp Business Cloud  source will require the following configuration:</p><br /><ul><li>Step 1:Whatsapp cloud Page ID </li> <li>Step 2:Token</li> <li>Step 3:Phone Number</li> <li>Step 4:Add channel name (Optional)</li> <li>Step 5:Add image URL (Optional)</li> </ul></div>"

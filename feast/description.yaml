@@ -1,4 +1,4 @@
-availableFor: Open source, Enterprise, Managed cloud
+availableFor: Open Source, Enterprise, Managed Cloud
 category: Feature Store
 description: "<div><p>Feast is a standalone, open-source feature store that organizations use to store and serve features consistently for offline training and online inference.</p></div>"
 descriptionDE: "<div><p>Feast ist ein eigenständiger, quelloffener Feature-Speicher, den Unternehmen zum Speichern und konsistenten Bereitstellen von Features für Offline-Training und Online-Inferenz verwenden.</p></div>"

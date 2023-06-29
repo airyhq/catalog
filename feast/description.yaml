@@ -6,9 +6,9 @@ descriptionFR: "<div><p>Feast est un magasin de fonctionnalités autonome et ope
 descriptionES: "<div><p>Feast es un almacén de funciones independiente y de código abierto que las organizaciones utilizan para almacenar y servir funciones de forma coherente para la formación fuera de línea y la inferencia en línea.</p></div>"
 displayName: Feast
 docs: https://airy.co/docs/core/apps/feast
-name: feast
+name: tools-feast-ui
 price: Free
 source: feast
-repository: feast-repo
+repository: airy-core
 isApp: true
 internalUI: https://feast.staging.airy.co/

@@ -1,0 +1,13 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: LLM
+description: "<div><p>FAISS is a vector database that allows developers to quickly group and search embeddings of documents that are similar to each other.</p></div>"
+descriptionDE: "<div><p>FAISS ist eine Vektordatenbank, die es Entwicklern ermöglicht, Einbettungen von einander ähnlichen Dokumenten schnell zu gruppieren und zu durchsuchen.</p></div>"
+descriptionFR: "<div><p>FAISS est une base de données vectorielle qui permet aux développeurs de regrouper et de rechercher rapidement des intégrations de documents similaires les uns aux autres.</p></div>"
+descriptionES: "<div><p>FAISS es una base de datos vectorial que permite a los desarrolladores agrupar y buscar rápidamente incrustaciones de documentos que son similares entre sí.</p></div>"
+displayName: FAISS
+docs: https://airy.co/docs/core/
+name: llm-faiss
+price: Free
+source: faiss
+repository: airy-enterprise
+isApp: true

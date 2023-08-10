@@ -1,0 +1,13 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: LLM
+description: "<div><p>The FAISS connector is a Kafka SINK connector that reads from a topic in Kafka and sends the data and its metadata to a the llm-faiss component.</p></div>"
+descriptionDE: "<div><p>Der FAISS-Connector ist ein Kafka SINK-Connector, der aus einem Thema in Kafka liest und die Daten und seine Metadaten an eine llm-faiss-Komponente sendet.</p></div>"
+descriptionFR: "<div><p>Le connecteur FAISS est un connecteur Kafka SINK qui lit à partir d'un sujet dans Kafka et envoie les données et ses métadonnées à un composant llm-faiss.</p></div>"
+descriptionES: "<div><p>El conector FAISS es un conector SINK de Kafka que lee un tema en Kafka y envía los datos y sus metadatos al componente llm-faiss.</p></div>"
+displayName: FAISS connector
+docs: https://airy.co/docs/core/
+name: llm-faiss-connector
+price: Free
+source: faiss-connector
+repository: airy-enterprise
+isApp: true

@@ -1,0 +1,14 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: LLM
+configurationValues: '{ "openaiApiKey": "string"}'
+description: "<div><p>The OpenAI connector is a bidirectional connector that connects Airy to the OpenAI LLM.</p></div>"
+descriptionDE: "<div><p>Der OpenAI-Connector ist ein bidirektionaler Connector, der Airy mit dem OpenAI LLM verbindet.</p></div>"
+descriptionFR: "<div><p>Le connecteur OpenAI est un connecteur bidirectionnel qui connecte Airy au OpenAI LLM.</p></div>"
+descriptionES: "<div><p>El conector OpenAI es un conector bidireccional que conecta Airy con OpenAI LLM.</p></div>"
+displayName: OpenAI connector
+docs: https://airy.co/docs/core/
+name: openai-connector
+price: Free
+source: openai
+repository: airy-enterprise
+isApp: false

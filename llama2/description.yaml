@@ -1,0 +1,13 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: LLM
+description: "<div><p>LLama2 is a large language model that can be downloaded and deployed in a self-hosted environment.</p></div>"
+descriptionDE: "<div><p>LLama2 ist ein großes Sprachmodell, das heruntergeladen und in einer selbst gehosteten Umgebung bereitgestellt werden kann.</p></div>"
+descriptionFR: "<div><p>LLama2 est un grand modèle de langage qui peut être téléchargé et déployé dans un environnement auto-hébergé.</p></div>"
+descriptionES: "<div><p>LLama2 es un modelo de lenguaje grande que se puede descargar e implementar en un entorno autohospedado.</p></div>"
+displayName: LLama2
+docs: https://airy.co/docs/core/
+name: llama2
+price: Free
+source: llama2
+repository: airy-enterprise
+isApp: true

@@ -1,0 +1,13 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: LLM
+description: "<div><p>Mosaic is an AI tool to easily train and deploy generative AI models on your data, in your secure environment.</p></div>"
+descriptionDE: "<div><p>Mosaik ist ein KI-Tool zum einfachen Trainieren und Bereitstellen generativer KI-Modelle auf Ihren Daten in Ihrer sicheren Umgebung.</p></div>"
+descriptionFR: "<div><p>Mosaic est un outil d'IA permettant de former et de déployer facilement des modèles d'IA génératifs sur vos données, dans votre environnement sécurisé.</p></div>"
+descriptionES: "<div><p>Mosaic es una herramienta de IA para entrenar e implementar fácilmente modelos de IA generativos en sus datos, en su entorno seguro.</p></div>"
+displayName: Mosaic
+docs: https://airy.co/docs/core/
+name: mosaic
+price: Free
+source: mosaic
+repository: airy-core
+isApp: true

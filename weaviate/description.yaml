@@ -1,0 +1,13 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: LLM
+description: "<div><p>Weaviate is an open-source vector database that allows storing object and vector embeddings from various ML-models.</p></div>"
+descriptionDE: "<div><p>Weaviate ist eine Open-Source-Vektordatenbank, die das Speichern von Objekt- und Vektoreinbettungen aus verschiedenen ML-Modellen ermöglicht.</p></div>"
+descriptionFR: "<div><p>Weaviate est une base de données vectorielles open source qui permet de stocker des intégrations d'objets et de vecteurs à partir de divers modèles ML.</p></div>"
+descriptionES: "<div><p>Weaviate es una base de datos vectorial de código abierto que permite almacenar incrustaciones de objetos y vectores de varios modelos ML.</p></div>"
+displayName: Weaviate
+docs: https://airy.co/docs/core/
+name: weaviate
+price: Free
+source: weaviate
+repository: airy-core
+isApp: true

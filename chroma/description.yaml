@@ -1,0 +1,13 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: LLM
+description: "<div><p>Chroma is a vector database that helps LLM applications to have long term memory.</p></div>"
+descriptionDE: "<div><p>Chroma ist eine Vektordatenbank, die LLM-Anwendungen dabei hilft, über ein Langzeitgedächtnis zu verfügen.</p></div>"
+descriptionFR: "<div><p>Chroma est une base de données vectorielle qui aide les applications LLM à disposer d'une mémoire à long terme.</p></div>"
+descriptionES: "<div><p>Chroma es una base de datos vectorial que ayuda a las aplicaciones LLM a tener memoria a largo plazo.</p></div>"
+displayName: Chroma
+docs: https://airy.co/docs/core/
+name: chroma
+price: Free
+source: chroma
+repository: airy-core
+isApp: true

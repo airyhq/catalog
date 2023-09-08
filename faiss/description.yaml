@@ -6,7 +6,7 @@ descriptionFR: "<div><p>FAISS est une base de données vectorielle qui permet au
 descriptionES: "<div><p>FAISS es una base de datos vectorial que permite a los desarrolladores agrupar y buscar rápidamente incrustaciones de documentos que son similares entre sí.</p></div>"
 displayName: FAISS
 docs: https://airy.co/docs/core/
-name: llm-faiss
+name: faiss
 price: Free
 source: faiss
 repository: airy-enterprise

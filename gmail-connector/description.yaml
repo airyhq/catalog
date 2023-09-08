@@ -1,0 +1,14 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: Conversation Source
+configurationValues: '{ "pubSubTopic": "string", "apiHostUrl": "string", "googleClientId": "string", "googleClientSecret": "string", "sourceApiJwtToken": "string"}'
+description: "<div><p>The GMail connector is a bidirectional connector for sending and receiving e-mail messages through the Google Mail API.</p></div>"
+descriptionDE: "<div><p>Der GMail-Connector ist ein bidirektionaler Connector zum Senden und Empfangen von E-Mail-Nachrichten über die Google Mail-API.</p></div>"
+descriptionFR: "<div><p>Le connecteur GMail est un connecteur bidirectionnel permettant d'envoyer et de recevoir des messages électroniques via l'API Google Mail.</p></div>"
+descriptionES: "<div><p>El conector GMail es un conector bidireccional para enviar y recibir mensajes de correo electrónico a través de la API de Google Mail.</p></div>"
+displayName: GMail connector
+docs: https://airy.co/docs/core/
+name: gmail-connector
+price: Free
+source: gmail
+repository: airy-enterprise
+isApp: false

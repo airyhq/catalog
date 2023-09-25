@@ -1,6 +1,6 @@
 availableFor: Open Source, Enterprise, Managed Cloud
 category: LLM
-configurationValues: '{ "pineconeApiSecretKey": "string", "pineconeEnv": "string"}'
+configurationValues: '{ "pineconeApiSecretKey": "string", "pineconeEnv": "string", "embeddingsEngine": "string"}'
 description: "<div><p>Pinecone is a fully managed vector database solution, used to store and search vector embeddings.</p></div>"
 descriptionDE: "<div><p>Pinecone ist eine vollständig verwaltete Vektordatenbanklösung, die zum Speichern und Durchsuchen von Vektoreinbettungen verwendet wird.</p></div>"
 descriptionFR: "<div><p>Pinecone est une solution de base de données vectorielle entièrement gérée, utilisée pour stocker et rechercher des intégrations vectorielles.</p></div>"

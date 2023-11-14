@@ -1,0 +1,14 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: LLM
+configurationValues: '{ "llm": "string", "vectorDatabase": "string" }'
+description: "<div><p>The LLM controller is a component responsible for integrating a LLM, using a Vector database, into the Airy ecosystem.</p></div>"
+descriptionDE: "<div><p>Der LLM-Controller ist eine Komponente, die für die Integration eines LLM mithilfe einer Vector-Datenbank in das Airy-Ökosystem verantwortlich ist.</p></div>"
+descriptionFR: "<div><p>Le contrôleur LLM est un composant chargé d'intégrer un LLM, utilisant une base de données Vector, dans l'écosystème Airy.</p></div>"
+descriptionES: "<div><p>El controlador LLM es un componente responsable de integrar un LLM, utilizando una base de datos Vector, en el ecosistema Airy.</p></div>"
+displayName: LLM Controller
+docs: https://airy.co/docs/core/
+name: llm-controller
+price: Free
+source: llm-controller
+repository: airy-enterprise
+isApp: false

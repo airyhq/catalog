@@ -1,0 +1,14 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: Conversation Source
+configurationValues: '{ "slackURL": "string", "apiKey": "string" }'
+description: "<div><p>The Slack connector is a bidirectional connector for sending and receiving messages and other events through the Slack API.</p></div>"
+descriptionDE: "<div><p>Der Slack-Connector ist ein bidirektionaler Connector zum Senden und Empfangen von Nachrichten und anderen Ereignissen über die Slack-API.</p></div>"
+descriptionFR: "<div><p>Le connecteur Slack est un connecteur bidirectionnel permettant d'envoyer et de recevoir des messages et d'autres événements via l'API Slack.</p></div>"
+descriptionES: "<div><p>El conector de Slack es un conector bidireccional para enviar y recibir mensajes y otros eventos a través de la API de Slack.</p></div>"
+displayName: Slack connector
+docs: https://airy.co/docs/core/
+name: slack-connector
+price: Free
+source: slack
+repository: airy-enterprise
+isApp: false

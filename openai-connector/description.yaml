@@ -1,6 +1,6 @@
 availableFor: Open Source, Enterprise, Managed Cloud
 category: LLM
-configurationValues: '{ "openaiApiSecretKey": "string", "model": "string"}'
+configurationValues: '{ "openaiApiSecretKey": "string", "Default Model": "dropdown"}'
 description: "<div><p>The OpenAI connector is a bidirectional connector that connects Airy to the OpenAI LLM.</p></div>"
 descriptionDE: "<div><p>Der OpenAI-Connector ist ein bidirektionaler Connector, der Airy mit dem OpenAI LLM verbindet.</p></div>"
 descriptionFR: "<div><p>Le connecteur OpenAI est un connecteur bidirectionnel qui connecte Airy au OpenAI LLM.</p></div>"

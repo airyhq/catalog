@@ -1,0 +1,14 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: LLM
+configurationValues: '{ "anthropicApiSecretKey": "string", "Default Model": "dropdown/Claude 3.5 Haiku/Claude 3.5 Sonnet/Claude 3.5 Opus/Claude 3 Haiku/Claude 3 Sonnet/Claude 3 Opus"}'
+description: "<div><p>The Anthropic connector is a bidirectional connector that connects Airy to the Anthropic Platform.</p></div>"
+descriptionDE: "<div><p>Der Anthropic-Connector ist ein bidirektionaler Connector, der Airy mit der Anthropic-Plattform verbindet.</p></div>"
+descriptionFR: "<div><p>Le connecteur Anthropic est un connecteur bidirectionnel qui connecte Airy à la plateforme Anthropic.</p></div>"
+descriptionES: "<div><p>El conector Anthropic es un conector bidireccional que conecta Airy con la plataforma Anthropic.</p></div>"
+displayName: Anthropic connector
+docs: https://airy.co/docs/core/
+name: anthropic-connector
+price: Free
+source: anthropic
+repository: airy-enterprise
+isApp: false

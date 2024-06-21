@@ -1,0 +1,14 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: LLM
+configurationValues: '{ "groqApiSecretKey": "string", "Default Model": "dropdown/LLaMA3 8b/LLaMA3 70b/Mixtral 8x7b/Gemma 7b/Whisper"}'
+description: "<div><p>The Groq connector is a bidirectional connector that connects Airy to the Groq Platform.</p></div>"
+descriptionDE: "<div><p>Der Groq-Connector ist ein bidirektionaler Connector, der Airy mit der Groq-Plattform verbindet.</p></div>"
+descriptionFR: "<div><p>Le connecteur Groq est un connecteur bidirectionnel qui connecte Airy à la plateforme Groq.</p></div>"
+descriptionES: "<div><p>El conector Groq es un conector bidireccional que conecta Airy con la plataforma Groq.</p></div>"
+displayName: groq connector
+docs: https://airy.co/docs/core/
+name: groq-connector
+price: Free
+source: groq
+repository: airy-enterprise
+isApp: false

@@ -1,0 +1,14 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: LLM
+configurationValues: '{ "mistralApiSecretKey": "string", "Default Model": "dropdown/Mistral 7B/Mixtral 8x7B/Mixtral 8x22B/Mistral Small/Mistral Medium/Mistral Large/Mistral Embeddings/Codestral"}'
+description: "<div><p>The Mistral AI connector is a bidirectional connector that connects Airy to the Mistral AI Platform.</p></div>"
+descriptionDE: "<div><p>Der Mistral AI-Connector ist ein bidirektionaler Connector, der Airy mit der Mistral AI-Plattform verbindet.</p></div>"
+descriptionFR: "<div><p>Le connecteur Mistral AI est un connecteur bidirectionnel qui connecte Airy à la plateforme Mistral AI.</p></div>"
+descriptionES: "<div><p>El conector Mistral AI es un conector bidireccional que conecta Airy con la plataforma Mistral AI.</p></div>"
+displayName: Mistral AI connector
+docs: https://airy.co/docs/core/
+name: mistralai-connector
+price: Free
+source: mistralai
+repository: airy-enterprise
+isApp: false

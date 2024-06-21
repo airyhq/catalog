@@ -1,0 +1,14 @@
+availableFor: Open Source, Enterprise, Managed Cloud
+category: LLM
+configurationValues: '{ "bedrockApiSecretKey": "string", "Default Model": "dropdown/Claude 3.5 Haiku/Claude 3.5 Sonnet/Claude 3.5 Opus/Claude 3 Haiku/Claude 3 Sonnet/Claude 3 Opus"}'
+description: "<div><p>The AWS Bedrock connector is a bidirectional connector that connects Airy to the AWS Bedrock Platform.</p></div>"
+descriptionDE: "<div><p>Der AWS Bedrock-Connector ist ein bidirektionaler Connector, der Airy mit der AWS Bedrock-Plattform verbindet.</p></div>"
+descriptionFR: "<div><p>Le connecteur AWS Bedrock est un connecteur bidirectionnel qui connecte Airy à la plateforme AWS Bedrock.</p></div>"
+descriptionES: "<div><p>El conector AWS Bedrock es un conector bidireccional que conecta Airy con la plataforma AWS Bedrock.</p></div>"
+displayName: AWS Bedrock connector
+docs: https://airy.co/docs/core/
+name: awsbedrock-connector
+price: Free
+source: aws-bedrock
+repository: airy-enterprise
+isApp: false

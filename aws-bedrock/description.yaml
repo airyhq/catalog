@@ -5,7 +5,7 @@ description: "<div><p>The AWS Bedrock connector is a bidirectional connector tha
 descriptionDE: "<div><p>Der AWS Bedrock-Connector ist ein bidirektionaler Connector, der Airy mit der AWS Bedrock-Plattform verbindet.</p></div>"
 descriptionFR: "<div><p>Le connecteur AWS Bedrock est un connecteur bidirectionnel qui connecte Airy à la plateforme AWS Bedrock.</p></div>"
 descriptionES: "<div><p>El conector AWS Bedrock es un conector bidireccional que conecta Airy con la plataforma AWS Bedrock.</p></div>"
-displayName: AWS Bedrock connector
+displayName: AWS Bedrock
 docs: https://airy.co/docs/core/
 name: awsbedrock-connector
 price: Free

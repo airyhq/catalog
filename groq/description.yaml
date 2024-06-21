@@ -5,7 +5,7 @@ description: "<div><p>The Groq connector is a bidirectional connector that conne
 descriptionDE: "<div><p>Der Groq-Connector ist ein bidirektionaler Connector, der Airy mit der Groq-Plattform verbindet.</p></div>"
 descriptionFR: "<div><p>Le connecteur Groq est un connecteur bidirectionnel qui connecte Airy à la plateforme Groq.</p></div>"
 descriptionES: "<div><p>El conector Groq es un conector bidireccional que conecta Airy con la plataforma Groq.</p></div>"
-displayName: groq connector
+displayName: groq
 docs: https://airy.co/docs/core/
 name: groq-connector
 price: Free

@@ -5,7 +5,7 @@ description: "<div><p>The Anthropic connector is a bidirectional connector that 
 descriptionDE: "<div><p>Der Anthropic-Connector ist ein bidirektionaler Connector, der Airy mit der Anthropic-Plattform verbindet.</p></div>"
 descriptionFR: "<div><p>Le connecteur Anthropic est un connecteur bidirectionnel qui connecte Airy à la plateforme Anthropic.</p></div>"
 descriptionES: "<div><p>El conector Anthropic es un conector bidireccional que conecta Airy con la plataforma Anthropic.</p></div>"
-displayName: Anthropic connector
+displayName: Anthropic
 docs: https://airy.co/docs/core/
 name: anthropic-connector
 price: Free

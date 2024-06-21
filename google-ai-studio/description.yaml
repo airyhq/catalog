@@ -5,7 +5,7 @@ description: "<div><p>The Google AI Studio connector is a bidirectional connecto
 descriptionDE: "<div><p>Der Google AI Studio-Connector ist ein bidirektionaler Connector, der Airy mit der Google AI Studio-Plattform verbindet und das Modell Gemini verwendet.</p></div>"
 descriptionFR: "<div><p>Le connecteur Google AI Studio est un connecteur bidirectionnel qui connecte Airy à la plateforme Google AI Studio en utilisant le modèle Gemini.</p></div>"
 descriptionES: "<div><p>El conector Google AI Studio es un conector bidireccional que conecta Airy con la plataforma Google AI Studio utilizando el modelo Gemini.</p></div>"
-displayName: Google AI Studio connector
+displayName: Google AI Studio
 docs: https://airy.co/docs/core/
 name: googleai-connector
 price: Free

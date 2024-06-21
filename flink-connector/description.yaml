@@ -5,7 +5,7 @@ description: "<div><p>The Flink connector is a bidirectional connector for sendi
 descriptionDE: "<div><p>Der Flink-Connector ist ein bidirektionaler Connector zum Senden von Anweisungen und zum Empfangen von Status und Ergebnissen über die Flink-API.</p></div>"
 descriptionFR: "<div><p>Le connecteur Flink est un connecteur bidirectionnel permettant d'envoyer des instructions et de recevoir l'état et les résultats via l'API Flink.</p></div>"
 descriptionES: "<div><p>El conector Flink es un conector bidireccional para enviar declaraciones y recibir estados y resultados a través de la API de Flink.</p></div>"
-displayName: Flink connector
+displayName: Flink
 docs: https://airy.co/docs/core/
 name: flink-connector
 price: Free

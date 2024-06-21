@@ -5,7 +5,7 @@ description: "<div><p>The OpenAI connector is a bidirectional connector that con
 descriptionDE: "<div><p>Der OpenAI-Connector ist ein bidirektionaler Connector, der Airy mit dem OpenAI LLM verbindet.</p></div>"
 descriptionFR: "<div><p>Le connecteur OpenAI est un connecteur bidirectionnel qui connecte Airy au OpenAI LLM.</p></div>"
 descriptionES: "<div><p>El conector OpenAI es un conector bidireccional que conecta Airy con OpenAI LLM.</p></div>"
-displayName: OpenAI connector
+displayName: OpenAI
 docs: https://airy.co/docs/core/
 name: openai-connector
 price: Free
